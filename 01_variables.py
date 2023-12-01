@@ -13,3 +13,5 @@ print(my_int_to_str_variable)
 print(type(my_int_to_str_variable))
 
 print(variable_string, variable_int, variable_boolean)
+
+#ndasndanskdnask
